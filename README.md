@@ -11,7 +11,7 @@
   <a href="mailto:ngurah647@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/USERNAME](https://www.linkedin.com/in/i-gusti-ngurah-putra-pratama-9bb41b2b0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+   <a href="https://www.linkedin.com/in/i-gusti-ngurah-putra-pratama-9bb41b2b0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
