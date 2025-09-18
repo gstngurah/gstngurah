@@ -10,7 +10,7 @@ I am a **Website Developer** focused on building modern, clean, and high-perform
 🎓 Graduate of **Bumigora University Mataram** (Accreditation: **Very Good**).  
 💡 Interested in **Full-Stack Development**, **API Integration**, and **Information Systems**.  
 ✨ Work principle: *simple, scalable, maintainable*.  
-⚽ My hobbies: **playing football, badminton, boxing, muay thai, swimming, and eating** 🍜
+⚽ My hobbies: **playing football, badminton, boxing, muay thai, swimming, and eating**.  
 🌱 Currently learning: **Laravel & RESTful API**  
 
 ---
