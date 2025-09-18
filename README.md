@@ -1,18 +1,18 @@
 <!-- Header & Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hello%2C+Thankyou+For+Visiting+My+Profile;My+Name+Is+Ngurah%2C+I'm+a+Website+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hello%2C+Thank+You+For+Visiting+My+Profile;My+Name+Is+Ngurah" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/nyan-cat.gif" width="280" alt="Nyan Cat" />
 </p>
 
----
+I am a **Website Developer** focused on building modern, clean, and high-performance web applications.  
+🎓 Graduate of **Bumigora University Mataram** (Accreditation: **Very Good**).  
+💡 Interested in **Full-Stack Development**, **API Integration**, and **Information Systems**.  
+✨ Work principle: *simple, scalable, maintainable*.  
+⚽ My hobbies: **playing football, badminton, boxing, muay thai, swimming, and eating** 🍜
 
-## 👋 Tentang Saya
-Saya seorang **Website Developer** dengan fokus pada pengembangan aplikasi web modern, bersih, dan performa tinggi.  
-🎓 Lulusan **Universitas Bumigora Mataram** (Akreditasi: **Sangat Baik**).  
-💡 Tertarik pada **Full-Stack Development**, **API Integration**, dan **Sistem Informasi**.  
-✨ Prinsip kerja: *simple, scalable, maintainable*.  
-⚽ Hobi saya: **bermain sepak bola, bulu tangkis, tinju, muaythai, renang, dan makan** 🍜
-
-- 🌱 Sedang memperdalam: **Laravel & RESTful API**  
+- 🌱 Currently learning: **Laravel & RESTful API**  
 
 ---
 
@@ -22,93 +22,49 @@ Saya seorang **Website Developer** dengan fokus pada pengembangan aplikasi web m
 </p>
 
 > **Core skills:** HTML • CSS • JavaScript • Vue.js • PHP • Laravel • MySQL  
-> **Tooling:** Git/GitHub  • VS Code
+> **Tooling:** Git/GitHub • VS Code
 
 ---
 
 ## 🏆 GitHub Highlights
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gstngurah&show_icons=true&theme=radical&cache_seconds=86400)
 
 ---
 
-## 🚀 Project Unggulan
-<!-- Tips: gunakan pin card untuk 2–4 repo terbaik -->
-<p align="left">
-  <a href="https://github.com/USERNAME/notaris-office-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=notaris-office-web&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/USERNAME/school-profile-cms">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=school-profile-cms&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/USERNAME/personal-landing-vue-laravel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=personal-landing-vue-laravel&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/USERNAME/laravel-vue-starter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=laravel-vue-starter&theme=tokyonight" />
-  </a>
-</p>
-
-> **Ide ringkas tiap proyek**  
-> - **Notaris Office Web** – Multi-user, reminder invoice, pelacakan dokumen.  
-> - **School Profile CMS** – Profil sekolah, manajemen konten, SEO-friendly.  
-> - **Personal Landing** – Portofolio modern (Vue + Laravel API).  
-> - **Laravel Vue Starter** – Boilerplate opinionated untuk produktivitas cepat.
+## 💼 Services (What I Usually Do)
+- Develop **Web Apps** (Laravel + Vue)  
+- **RESTful API** & third-party integrations   
+- **Performance optimization** & best practices  
 
 ---
 
-## 💼 Layanan (yang sering dikerjakan)
-- Pengembangan **Web App** (Laravel + Vue)
-- **RESTful API** & integrasi pihak ketiga
-- **Refactor** codebase, arsitektur yang rapi
-- Setup **Auth**, manajemen role & permission
-- **Optimasi performa** & best practices
-
-<details>
-<summary>📐 Prinsip & Kualitas</summary>
+## 📐 Principles & Quality
 
 - Clean Architecture • SOLID • DRY  
-- Konvensi penamaan konsisten  
-- Dokumentasi & commit message yang jelas  
-- Review & testing minimum untuk fitur kritis  
-</details>
+- Consistent naming conventions  
+- Clear documentation & commit messages  
+- Reviews & minimum testing for critical features  
 
 ---
 
-## 📚 Pendidikan
-- **Universitas Bumigora Mataram** — S1 *(Akreditasi: Sangat Baik)*
+## 📚 Education
+- **Bumigora University Mataram** — Bachelor’s Degree *(Accreditation: Very Good)*
 
 ---
 
-## 🤝 Kolaborasi & Kontak
-Butuh partner untuk membangun aplikasi **cepat, rapi, dan scalable**?  
-📩 Email: **youremail@example.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/USERNAME**  
-🌐 Portofolio: **https://your-portfolio.example.com** *(opsional)*
+## 🤝 Collaboration & Contact
 
----
-
-## 🐍 Aktivitas Kontribusi
-<!-- Opsional: butuh GitHub Actions "snake" untuk merender SVG ini pada repo profil -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
-## 📊 Quick Facts
-- ⏱️ Respons cepat, fokus hasil
-- 🧹 Perfeksionis soal UI rapi & aksesibilitas
-- 🔄 Terbuka untuk feedback & iterasi
-
----
-
-<!-- Footer kecil -->
-<p align="center">
-  Made with ❤️ using <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>, 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">Profile Trophy</a>, 
-  <a href="https://github.com/Platane/snk">Contribution Snake</a>, 
-  and <a href="https://skillicons.dev">Skill Icons</a>.
+  <a href="mailto:ngurah647@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ngurah647%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/ngurah.27">
+    <img src="https://img.shields.io/badge/Instagram-%40ngurah.27-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@croissantcheez">
+    <img src="https://img.shields.io/badge/TikTok-%40croissantcheez-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://www.linkedin.com/in/i-gusti-ngurah-putra-pratama-9bb41b2b0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
