@@ -47,11 +47,6 @@ I am a **Website Developer** focused on building modern, clean, and high-perform
 
 ---
 
-## 📚 Education
-- **Bumigora University Mataram** — Bachelor’s Degree *(Accreditation: Very Good)*
-
----
-
 ## 🤝 Collaboration & Contact
 
 <p align="center">
