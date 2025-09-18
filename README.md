@@ -48,18 +48,20 @@ I am a **Website Developer** focused on building modern, clean, and high-perform
 ---
 
 ## 🤝 Collaboration & Contact
+Feel free to reach out if you’d like to collaborate — I’m also available for job opportunities.
 
-<p align="center">
+<p>
   <a href="mailto:ngurah647@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ngurah647%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ngurah.27">
-    <img src="https://img.shields.io/badge/Instagram-%40ngurah.27-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@croissantcheez">
-    <img src="https://img.shields.io/badge/TikTok-%40croissantcheez-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/i-gusti-ngurah-putra-pratama-9bb41b2b0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
