@@ -3,60 +3,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hello%2C+Thankyou+For+Visiting+My+Profile;My+Name+Is+Ngurah%2C+I'm+a+Website+Developer" alt="Typing SVG" />
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <a href="mailto:ngurah647@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ngurah647%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-   <a href="https://www.linkedin.com/in/i-gusti-ngurah-putra-pratama-9bb41b2b0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
 ---
 
 ## 👋 Tentang Saya
 Saya seorang **Website Developer** dengan fokus pada pengembangan aplikasi web modern, bersih, dan performa tinggi.  
 🎓 Lulusan **Universitas Bumigora Mataram** (Akreditasi: **Sangat Baik**).  
 💡 Tertarik pada **Full-Stack Development**, **API Integration**, dan **Sistem Informasi**.  
-✨ Prinsip kerja: *simple, scalable, maintainable*.
+✨ Prinsip kerja: *simple, scalable, maintainable*.  
+⚽ Hobi saya: **bermain sepak bola, bulu tangkis, tinju, muaythai, renang, dan makan** 🍜
 
-- 🔭 Saat ini membangun proyek: **(isi proyek aktifmu di sini)**  
-- 🌱 Sedang memperdalam: **Testing (Pest/PHPUnit), RESTful API, dan CI/CD**  
-- 💬 Topik favorit: **Laravel, Vue.js, Clean Architecture, SQL tuning**  
-- ⚡ Fun fact: **Aku suka merapikan repo & dokumentasi** (README yang kamu lihat ini contohnya 😄)
+- 🌱 Sedang memperdalam: **Laravel & RESTful API**  
 
 ---
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,bootstrap,tailwind,git,github,mysql,vite,postman,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue,php,laravel,git,mysql,vscode" />
 </p>
 
 > **Core skills:** HTML • CSS • JavaScript • Vue.js • PHP • Laravel • MySQL  
-> **Tooling:** Git/GitHub • Vite • Postman • VS Code • Linux
+> **Tooling:** Git/GitHub  • VS Code
 
 ---
 
 ## 🏆 GitHub Highlights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_title=false&rank_icon=github" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ---
 
